@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.iti__selected-flag {
+    border-right: 1px solid #F3F5F9;
+}
+
+.iti {
+    position: relative;
+    display: block !important;
+}
